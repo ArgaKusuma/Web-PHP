@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-
 <head>
-<h1>Tugas PHP 1</h1>
+<title>Tugas PHP 1</title>
 </head>
 
 <body>
 <div class="container-md mt-5">
-<h1>Input data Mahasiswa</h1> <Br>
+<h1>Input Data Mahasiswa</h1> 
+<br>
 <form action="proses.php" method="POST">
 <div class="form-group">
 <label for="Nama_lengkap" class="col-2 col-form-label">Nama Lengkap</label>

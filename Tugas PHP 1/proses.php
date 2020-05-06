@@ -1,5 +1,4 @@
 <?php
-
 $nama = $_POST['Nama'];
 $nim = $_POST['NIM'];
 $tanggal = $_POST['Tgl_lhr'];
@@ -25,8 +24,8 @@ elseif ($umur <= 20){
 elseif ($umur <= 25){
     echo "(Dewasa)";}
 else{
-    echo "(Tua)";
-}
+    echo "(Tua)";}
+
 echo "<br><br>"; 
 echo "Hobi : ", $hobi;
 echo "<br><br>"; 
