@@ -4,7 +4,6 @@
 </head>
 
 <body>
-<div class="container-md mt-5">
 <h1>Input Data Mahasiswa</h1> 
 <br>
 <form action="proses.php" method="POST">
