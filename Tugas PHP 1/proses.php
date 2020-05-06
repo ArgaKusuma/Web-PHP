@@ -18,7 +18,7 @@ echo "<br><br>";
 echo "Umur : ", $umur, " ";
 
 if ($umur <= 10){
-    echo "(Anak - anak)";}
+    echo "(Anak-anak)";}
 elseif ($umur <= 20){
     echo "(Remaja)";}
 elseif ($umur <= 25){
